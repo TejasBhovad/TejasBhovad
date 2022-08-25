@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tejas Bhovad</h1>
 <h3 align="center">A passionate soon-to-be Developer</h3>
 
-- 🌱 I’m currently learning **Advanced Python**
+- 🌱 I’m currently pursuing **BTech in AI & DS**
 
 </p>
 
