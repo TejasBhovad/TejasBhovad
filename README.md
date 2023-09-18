@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently pursuing **BTech in Artificial Intelligence and Data Science**
 - 👯 I’m looking to collaborate on **Open Source Projects**
-- Find me [@tejas_bhovad](https://twitter.com/tejas_bhovad) on Twitter (now X)
+- Find me [@tejas_bhovad](https://twitter.com/tejas_bhovad) on **Twitter (now X)**
 
 <h3 align="left">Web tech:</h3>
 <p align="left">
@@ -23,8 +23,6 @@
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
 <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
 <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
-<img src="">
-<img src="">
 </p>
 
 <h3 align="left">Things to Learn:</h3>
@@ -33,8 +31,6 @@
 <img src="https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9">
 <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white">
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-<img src="">
-<img src="">
 </p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
