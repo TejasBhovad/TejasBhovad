@@ -1,8 +1,8 @@
 <h1 align="left">Hi I'm Tejas Bhovad 👋</h1>
-<h3 align="left">A passionate soon-to-be Developer</h3>
+<h3 align="left">A passionate Full stack Web Developer</h3>
 
 - 🌱 I’m currently pursuing **BTech in Artificial Intelligence and Data Science**
-- 👯 I’m looking to collaborate on **Open Source Projects**
+- 👯 I’m looking for internships in field of Web development and AI
 - Find me [@tejas_bhovad](https://twitter.com/tejas_bhovad) on **Twitter (now X)**
 
 <h3 align="left">Web tech:</h3>
