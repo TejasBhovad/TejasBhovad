@@ -1,5 +1,5 @@
 <h1 align="left">Hi I'm Tejas Bhovad 👋</h1>
-<h3 align="left">A passionate Full stack Web Developer</h3>
+<h3 align="left">A Full stack Web Developer</h3>
 
 - 🌱 I’m currently pursuing **BTech in Artificial Intelligence and Data Science**
 - 👯 I’m looking for internships in field of Web development and AI
